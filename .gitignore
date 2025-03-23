@@ -1,0 +1,10 @@
+/kuwahara_images
+myvenv
+*.pyc
+*~
+/.vscode
+__pycache__
+.idea
+.env
+.DS_Store
+static/*
